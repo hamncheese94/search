@@ -10,3 +10,6 @@ This program is written in Python 3
 Instructions:
  <br />
 run search.py from shell
+
+Notes:
+written in Python 3
